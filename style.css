@@ -1,6 +1,11 @@
-/* body {
-    background-color: #19437d;
-} */
+body {
+    height: 3065px;
+}
+
+html{
+        min-width: 100%;
+        min-height: 100%;
+    }
 
 html,body {
     background-color: #19437d;
